@@ -1,0 +1,34 @@
+*{
+    background-color: rgb(180, 239, 241);
+   
+}
+p, h1{
+    background-color: aliceblue;
+}
+
+div{
+    background-color: aliceblue;
+    font-family: Arial;   
+    border-radius: 1.3vw;
+    font-size: 1.3vw;
+    padding: 1% 1% 1% 1%;
+    text-align: center;
+}
+
+ 
+ .responsive{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+ }
+
+html{
+   margin-top: 15%;
+}
+
+img{
+    border-radius: 1.3vw;
+    width: 30vw;
+}
